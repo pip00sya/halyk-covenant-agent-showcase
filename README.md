@@ -14,6 +14,24 @@ A document-analysis agent for the Halyk AI Challenge. It reads a document archiv
 [Public original code](https://github.com/pip00sya/Halyk-ai-agent) ·
 [Result and source record](docs/HACKATHON.md)
 
+## Inspect the Command Center
+
+[![The newly recorded interface tour starts with the real, idle Halyk Command Center.](media/demo-preview.jpg)](media/halyk-interface-tour.mp4)
+
+**[▶ Open the 30-second interface tour](media/halyk-interface-tour.mp4)** ·
+[Technical workflow and artifact guide](docs/TECHNICAL.md)
+
+Recorded on **12 October 2026** from the initial public source: overview →
+architecture → configuration → empty decision matrix → project documents.
+No dataset was loaded, no agent/model run was started, and no benchmark result
+was generated for the recording. It shows the implemented inspection surface.
+
+<details><summary>Open the project's document workspace</summary>
+
+![Technical specifications, challenge analysis, strategy and operator documentation are available in the actual interface.](media/documents-view.jpg)
+
+</details>
+
 ## The archive is part of the problem
 
 A covenant may depend on a final contract, an amendment, a waiver, an audit note and a particular set of transactions. Treating every extracted paragraph as equally authoritative can produce a numerically correct answer to the wrong version of the agreement.
@@ -91,15 +109,16 @@ The authoritative source remains the bank's spreadsheet.
 The full history/data copy retains both challenge datasets: **200 public PDFs and
 302 private-stage PDFs**, together with outputs and traces. Its updated code passed
 24 local tests and the Python 3.11/3.12 Windows/Linux CI matrix during migration.
-The [Eye172 copy](https://github.com/Eye172/halyk-hackathon-1) currently requires access;
+The [Eye172 copy](https://github.com/Eye172/halyk-hackathon-1) is public at the
+12 October 2026 review;
 the [public original](https://github.com/pip00sya/Halyk-ai-agent) preserves the initial
 source snapshot. They are explicitly different snapshots.
 
 The **36/36 public calibration** described above is a known-data check, while the
 **81.6688% official result** comes from the competition leaderboard. Neither an empty
 Command Center capture nor an archived local quality report is presented as a new
-private-dataset benchmark. No application demo video was available in the retained
-materials; the gallery shows the actual implemented inspection interface.
+private-dataset benchmark. An original competition video was not retained. The newly recorded interface
+tour above is explicitly dated and shows the implemented inspection interface without a calculation run.
 
 ---
 
@@ -115,10 +134,10 @@ partners across the project.
 
 
 This public case study is maintained on Nurkhan's account.
-[Companion showcase on Shakhnazar's account](https://github.com/Eye172/halyk-covenant-agent-showcase) ·
+[Full project on Shakhnazar’s account](https://github.com/Eye172/halyk-hackathon-1) ·
 [Nurkhan's projects](https://github.com/pip00sya) · [Shakhnazar's projects](https://github.com/Eye172).
 
-[Public initial source snapshot](https://github.com/pip00sya/Halyk-ai-agent) · [Full-history code/data copy](https://github.com/Eye172/halyk-hackathon-1) (currently requires access).
+[Public initial source snapshot](https://github.com/pip00sya/Halyk-ai-agent) · [Full-history code/data copy](https://github.com/Eye172/halyk-hackathon-1) (public at the 12 October 2026 review).
 
 [Hackathon record and supporting sources](docs/HACKATHON.md) ·
 [Media provenance](docs/MEDIA.md).
